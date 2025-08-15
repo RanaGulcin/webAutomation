@@ -1,0 +1,56 @@
+Created by rana.cakir on 20.03.2025
+
+This is a concept file with following syntax for each concept.
+# Telefon <phone> , sifre <password> ile basarili login islemi
+* "5" saniye bekle
+* Şuanki URL "https://dev.izmirimkart.com.tr/" değerini içeriyor mu kontrol et
+* Element var mı kontrol et "Button_OnlineIslemler"
+* Elementine tıkla "Button_OnlineIslemler"
+* "3" saniye bekle
+* Şuanki URL "https://dev.izmirimkart.com.tr/giris" değerini içeriyor mu kontrol et
+* Element var mı kontrol et "Input_PhoneNumber"
+* Elementine tıkla "Input_PhoneNumber"
+* <phone> textini "Input_PhoneNumber" elemente yaz
+* Element var mı kontrol et "Input_Password"
+* Elementine tıkla "Input_Password"
+* <password> textini "Input_Password" elemente yaz
+* Element var mı kontrol et "Button_GirisYap"
+* Elementine tıkla "Button_GirisYap"
+* "5" saniye bekle
+* Şuanki URL "https://dev.izmirimkart.com.tr/kayitli-kartlarim" değerini içeriyor mu kontrol et
+
+# Telefon <phone> , sifre <password> ile basarisiz login islemi
+* "5" saniye bekle
+* Şuanki URL "https://dev.izmirimkart.com.tr/" değerini içeriyor mu kontrol et
+* Element var mı kontrol et "Button_OnlineIslemler"
+* Elementine tıkla "Button_OnlineIslemler"
+* "3" saniye bekle
+* Şuanki URL "https://dev.izmirimkart.com.tr/giris" değerini içeriyor mu kontrol et
+* Element var mı kontrol et "Input_PhoneNumber"
+* Elementine tıkla "Input_PhoneNumber"
+* <phone> textini "Input_PhoneNumber" elemente yaz
+* Element var mı kontrol et "Input_Password"
+* Elementine tıkla "Input_Password"
+* <password> textini "Input_Password" elemente yaz
+* Element var mı kontrol et "Button_GirisYap"
+* Elementine tıkla "Button_GirisYap"
+* Element var mı kontrol et "Popup"
+* "Popup" elementi "Giriş başarısız!" değerini içeriyor mu kontrol et
+//* Element var mı kontrol et <key>
+//* Elementine tıkla <key>
+
+# Telefon , sifre bilgisi girilmeden login islemi
+* "5" saniye bekle
+* Şuanki URL "https://dev.izmirimkart.com.tr/" değerini içeriyor mu kontrol et
+* Element var mı kontrol et "Button_OnlineIslemler"
+* Elementine tıkla "Button_OnlineIslemler"
+* "3" saniye bekle
+* Şuanki URL "https://dev.izmirimkart.com.tr/giris" değerini içeriyor mu kontrol et
+* Element var mı kontrol et "Input_PhoneNumber"
+* Elementine tıkla "Input_PhoneNumber"
+* Element var mı kontrol et "Input_Password"
+* Elementine tıkla "Input_Password"
+* Element var mı kontrol et "Button_GirisYap"
+* Elementine tıkla "Button_GirisYap"
+* "ValidMessage_PhoneNumber" elementi "Gereklidir" değerini içeriyor mu kontrol et
+* "ValidMessage_Password" elementi "En az 8 karakter içermelidir" değerini içeriyor mu kontrol et

@@ -1,0 +1,8 @@
+Created by teknik.user on 10.09.2024
+
+This is a concept file with following syntax for each concept.
+# IzmirimKart Test URL Testi
+* "5" saniye bekle
+* Şuanki URL "https://dev.izmirimkart.com.tr" değerini içeriyor mu kontrol et
+* "2" saniye bekle
+* Element var mı kontrol et "izmirimKart_Logo"

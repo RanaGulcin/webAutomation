@@ -1,0 +1,77 @@
+[
+  {
+    "key": "Button_OnlineIslemler",
+    "value": "//a[@href='/giris']",
+    "type": "xpath"
+  },
+  {
+    "key": "Button_GirisYap",
+    "value": "//button[.='Giriş yap']",
+    "type": "xpath"
+  },
+  {
+    "key": "Button_KayitOl",
+    "value": "//button[.='Kayıt ol']",
+    "type": "xpath"
+  },
+  {
+  "key": "Input_PhoneNumber",
+  "value": "//input[@name='phoneNumber']",
+  "type": "xpath"
+  },
+  {
+    "key": "Input_Password",
+    "value": "//input[@name='password']",
+    "type": "xpath"
+  },
+  {
+    "key": "Input_PasswordAgain",
+    "value": "//input[@name='passwordConfirmation']",
+    "type": "xpath"
+  },
+  {
+    "key": "ValidMessage_PhoneNumber",
+    "value": "//p[.='Gereklidir']",
+    "type": "xpath"
+  },
+  {
+    "key": "ValidMessage_Password",
+    "value": "//p[.='En az 8 karakter içermelidir']",
+    "type": "xpath"
+  },
+  {
+    "key": "Popup",
+    "value": "//div[@class='text-center text-xl font-semibold']",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+  ]

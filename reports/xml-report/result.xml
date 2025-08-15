@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="C:\Users\User\IdeaProjects\IzTek_IzKart_WebAutomation\specs\IKWS-LoginIslemleri.spec" time="16.354" timestamp="2025-03-20T16:32:28" name="Specification Heading" errors="0" hostname="rana-cakir1">
+		<properties></properties>
+		<testcase classname="Specification Heading" name="Sistemde kayitli olmayan kullanicinin login olma islemi" time="16.354"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>
